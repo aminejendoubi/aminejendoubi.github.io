@@ -1,4 +1,4 @@
-var content = 'Hi, I am Amine Jendoubi a UX/UI & Graphic Designer based in Tunisia.';
+var content = 'Hi, I am Amine Jendoubi a UX/UI & Graphic Designer based in Tunis.';
 
 var ele = '<span>' + content.split('').join('</span><span>') + '</span>';
 
